@@ -18,7 +18,7 @@ filas e possíveis aglomerações.
 
 ## Mapa Mental
 
-[Mapa mental]()
+[Mapa mental](mapa_mental)
 
 ## Video do Pitch
 
@@ -29,7 +29,7 @@ filas e possíveis aglomerações.
 
 - [Modelo do projeto](modelo_projeto.pdf)
 
-- [Descrição detalhada do projeto]()
+- [Descrição detalhada do projeto](OrganizaUnB-detalhamento_solução)
 
 ## Integrantes
 
