@@ -20,6 +20,11 @@ filas e possíveis aglomerações.
 
 [Mapa mental](mapa_mental.jpeg)
 
+## Caso de Uso
+
+- Neste vídeo demonstramos um dos caso de uso do nosso aplicativo
+[Link](https://youtu.be/IgFccHqJIPQ)
+
 ## Video do Pitch
 
 - Video de 3 minutos demonstrando a aplicação.
