@@ -24,6 +24,7 @@ filas e possíveis aglomerações.
 
 - Neste vídeo demonstramos um dos caso de uso do nosso aplicativo
 - [Link](https://youtu.be/IgFccHqJIPQ)
+- [Link Marvel](https://marvelapp.com/2462c596/screen/70681031)
 
 ## Video do Pitch
 
@@ -35,6 +36,10 @@ filas e possíveis aglomerações.
 - [Modelo do projeto](modelo_projeto.pdf)
 
 - [Descrição detalhada do projeto](OrganizaUnB-detalhamento_solução.pdf)
+
+## Protótipo
+
+- [Telas do protótipo desenvolvido](PROTOTIPO/TELAS)
 
 ## Integrantes
 
