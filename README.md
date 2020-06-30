@@ -18,7 +18,7 @@ filas e possíveis aglomerações.
 
 ## Mapa Mental
 
-[Mapa mental](mapa_mental)
+[Mapa mental](mapa_mental.jpeg)
 
 ## Video do Pitch
 
