@@ -22,13 +22,13 @@ filas e possíveis aglomerações.
 
 ## Caso de Uso
 
-- Neste vídeo demonstramos um dos caso de uso do nosso aplicativo
+Demonstramos um dos caso de uso do nosso aplicativo
 - [Link](https://youtu.be/IgFccHqJIPQ)
 - [Link Marvel](https://marvelapp.com/2462c596/screen/70681031)
 
 ## Video do Pitch
 
-- Video de 3 minutos demonstrando a aplicação.
+Video de 3 minutos demonstrando a aplicação.
 - [Link](https://youtu.be/zstoXSKeMAc)
 
 ## Documentos
