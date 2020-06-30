@@ -29,7 +29,7 @@ filas e possíveis aglomerações.
 
 - [Modelo do projeto](modelo_projeto.pdf)
 
-- [Descrição detalhada do projeto](OrganizaUnB-detalhamento_solução)
+- [Descrição detalhada do projeto](OrganizaUnB-detalhamento_solução.pdf)
 
 ## Integrantes
 
